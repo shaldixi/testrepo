@@ -8,6 +8,5 @@ setup(
     author='Shalini Dixit',
     author_email='shalinidxt0@gmail.com',
     license='unlicense',
-    packages=['testrepo'],
     zip_safe=False
 )
